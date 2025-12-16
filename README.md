@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaralaksitha&label=Profile%20views&color=0e75b6&style=flat" alt="udaralaksitha" /> </p>
 
 
-- 🌱 I’m currently learning **Asp.Net & C#**
+- 🌱 I’m currently learning **Experienced MERN developer passionate about frontend engineering & cloud-native solutions.
+**
 
 - 👨‍💻 All of my projects are available at [https://udaralaksitha.github.io/Udara_laksitha.github.io/](https://udaralaksitha.github.io/Udara_laksitha.github.io/)
 
