@@ -4,7 +4,7 @@
 <h3 align="center">Experienced MERN developer passionate about frontend engineering & cloud-native solutions.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaralaksitha&label=Profile%20views&color=0e75b6&style=flat" alt="udaralaksitha" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaralaksitha&label=Profile%20views&color=0e75b6&style=flat" alt="udaralaksitha" /> </p> -->
 
 
 - **Tech Stack:** React • Node.js • Express • MongoDB • JavaScript • Docker • AWS (in progress)
