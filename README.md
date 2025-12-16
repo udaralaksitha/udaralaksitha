@@ -1,12 +1,14 @@
 <h1 align="center"> Full-Stack Software Engineer (React • Node.js • MERN)
-\ Building scalable web applications & cloud-ready projects
 </h1>
+<h2 align="center">
+ Building scalable web applications & cloud-ready projects
+</h2>
 <h3 align="center">Experienced MERN developer passionate about frontend engineering & cloud-native solutions.
 </h3>
 # 👋 Hi, I’m Udara Liyanage
 
 **Software Engineer | Frontend / Full-Stack (React, MERN)**  
-📍 Sri Lanka | 🌍 Open to Relocation: Switzerland  
+📍 Sri Lanka 
 
 ---
 
