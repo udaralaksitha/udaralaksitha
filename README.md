@@ -9,15 +9,9 @@
 
 - **Tech Stack:** React • Node.js • Express • MongoDB • JavaScript • Docker • AWS (in progress)
 
-**
-
 - 👨‍💻 All of my projects are available at [https://udaralaksitha.github.io/Udara_laksitha.github.io/](https://udaralaksitha.github.io/Udara_laksitha.github.io/)
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **laksithaprabodha21@gmail.com**
-
-- 📄 Know about my experiences [https://aquamarine-kordula-29.tiiny.site](https://aquamarine-kordula-29.tiiny.site)
 
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udaralaksitha" alt="udaralaksitha" /></a> </p>
 
