@@ -3,6 +3,72 @@
 </h1>
 <h3 align="center">Experienced MERN developer passionate about frontend engineering & cloud-native solutions.
 </h3>
+# 👋 Hi, I’m Udara Liyanage
+
+**Software Engineer | Frontend / Full-Stack (React, MERN)**  
+📍 Sri Lanka | 🌍 Open to Relocation: Switzerland  
+
+---
+
+## 👨‍💻 About Me
+
+I’m a Software Engineer with **3+ years of professional experience** building scalable, production-ready web applications using **React, JavaScript (ES6+), and the MERN stack**.
+
+I enjoy working on **end-to-end features**, writing clean and maintainable code, and solving real-world problems through well-designed web applications. I have experience working in **Agile/Scrum environments** and collaborating closely with cross-functional teams.
+
+I am currently seeking **Frontend or Full-Stack Software Engineer opportunities in Switzerland** and am open to **relocation and visa sponsorship**.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript (ES6+), Python, Java  
+**Frontend:** React, HTML5, CSS3, Bootstrap, Responsive Design  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, MySQL  
+**DevOps / Tools:** Docker, AWS (EC2, S3 – fundamentals), Git, GitHub, GitHub Actions (basic), Postman  
+**Practices:** Agile/Scrum, Clean Code, API Integration, Performance Optimization
+
+---
+
+## 📌 Featured Projects
+
+- 🏥 **Hospital Management System**  
+  Full-stack application for hospital and patient administration  
+  `Node.js · Express · MySQL`  
+  🔗 https://github.com/udaralaksitha/Hospital-management-system
+
+- 💼 **Payroll Management System**  
+  MERN-based system with optimized salary processing (~40% improvement)  
+  `React · Node.js · MongoDB`  
+  🔗 https://github.com/udaralaksitha/Payroll-management-system
+
+- 🛒 **E-Commerce Platform**  
+  Full-stack e-commerce app with cart, checkout, and REST APIs  
+  `React · Node.js · MongoDB`  
+  🔗 https://github.com/udaralaksitha/Udaral_store.github.io
+
+---
+
+## 📈 What I Focus On
+
+- Building **scalable frontend architectures**
+- Designing **clean RESTful APIs**
+- Writing **maintainable, readable code**
+- Improving performance and usability
+- Continuous learning and improvement
+
+---
+
+## 📫 Contact
+
+- 📧 Email: laksithaprabodha21@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/prabodha-laksitha/  
+- 🌐 Portfolio: https://udaralaksitha.github.io/Udara_laksitha.github.io/
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*
 
 
 
