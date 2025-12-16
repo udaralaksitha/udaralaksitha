@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Udara Laksitha</h1>
+<h1 align="center">Hi # Full-Stack Software Engineer (React • Node.js • MERN)
+\U0001F680 Building scalable web applications & cloud-ready projects
+</h1>
 <h3 align="center">A passionate Software Engineer from SL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaralaksitha&label=Profile%20views&color=0e75b6&style=flat" alt="udaralaksitha" /> </p>
