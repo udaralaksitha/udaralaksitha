@@ -1,5 +1,5 @@
-<h1 align="center">Hi # Full-Stack Software Engineer (React • Node.js • MERN)
-\U0001F680 Building scalable web applications & cloud-ready projects
+<h1 align="center"> Full-Stack Software Engineer (React • Node.js • MERN)
+\ Building scalable web applications & cloud-ready projects
 </h1>
 <h3 align="center">A passionate Software Engineer from SL</h3>
 
