@@ -1,24 +1,30 @@
-<h1 align="center"> Full-Stack Software Engineer (React • Node.js • MERN)
+<!-- <h1 align="center"> Full-Stack Software Engineer (React • Node.js • MERN)
 </h1>
 <h2 align="center">
  Building scalable web applications & cloud-ready projects
 </h2>
 <h3 align="center">Experienced MERN developer passionate about frontend engineering & cloud-native solutions.
-</h3>
-# 👋 Hi, I’m Udara Liyanage
+</h3> -->
 
-**Software Engineer | Frontend / Full-Stack (React, MERN)**  
-📍 Sri Lanka 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Experienced+MERN+developer;Full+stack+developer;Building+scalable+web+applications;Always+learning+new+things"></a>
+</p>
 
----
 
-## 👨‍💻 About Me
 
-I’m a Software Engineer with **3+ years of professional experience** building scalable, production-ready web applications using **React, JavaScript (ES6+), and the MERN stack**.
+<h1 align="center"><b>Hi , I'm udara laksitha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ 
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+I’m a Software Engineer with **2+ years of professional experience** building scalable, production-ready web applications using **React, JavaScript (ES6+), and the MERN stack**.
 
 I enjoy working on **end-to-end features**, writing clean and maintainable code, and solving real-world problems through well-designed web applications. I have experience working in **Agile/Scrum environments** and collaborating closely with cross-functional teams.
 
-I am currently seeking **Frontend or Full-Stack Software Engineer opportunities in Switzerland** and am open to **relocation and visa sponsorship**.
 
 ---
 
@@ -61,11 +67,6 @@ I am currently seeking **Frontend or Full-Stack Software Engineer opportunities 
 - Continuous learning and improvement
 
 ---
-
-## 📫 Contact
-
-- 📧 Email: laksithaprabodha21@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/prabodha-laksitha/  
 
 
 ---
