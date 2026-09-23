@@ -66,7 +66,7 @@ I am currently seeking **Frontend or Full-Stack Software Engineer opportunities 
 
 - 📧 Email: laksithaprabodha21@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/prabodha-laksitha/  
-- 🌐 Portfolio: https://udaralaksitha.github.io/Udara_laksitha.github.io/
+
 
 ---
 
