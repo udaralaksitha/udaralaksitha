@@ -39,24 +39,6 @@ I enjoy working on **end-to-end features**, writing clean and maintainable code,
 
 ---
 
-## 📌 Featured Projects
-
-- 🏥 **Hospital Management System**  
-  Full-stack application for hospital and patient administration  
-  `Node.js · Express · MySQL`  
-  🔗 https://github.com/udaralaksitha/Hospital-management-system
-
-- 💼 **Payroll Management System**  
-  MERN-based system with optimized salary processing (~40% improvement)  
-  `React · Node.js · MongoDB`  
-  🔗 https://github.com/udaralaksitha/Payroll-management-system
-
-- 🛒 **E-Commerce Platform**  
-  Full-stack e-commerce app with cart, checkout, and REST APIs  
-  `React · Node.js · MongoDB`  
-  🔗 https://github.com/udaralaksitha/Udaral_store.github.io
-
----
 
 ## 📈 What I Focus On
 
