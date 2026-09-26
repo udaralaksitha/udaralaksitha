@@ -1,54 +1,115 @@
-<!-- <h1 align="center"> Full-Stack Software Engineer (React • Node.js • MERN)
-</h1>
-<h2 align="center">
- Building scalable web applications & cloud-ready projects
-</h2>
-<h3 align="center">Experienced MERN developer passionate about frontend engineering & cloud-native solutions.
-</h3> -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=UDARA%20LAKSITHA&fontSize=50&color=0:0F172A,100:06B6D4&stroke=00D9FF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=06B6D4&center=true&width=800&lines=Full-Stack+Developer;AI+Enthusiast;Software+Engineering+Graduate;Building+Modern+Web+Applications"/>
+
+</div>
+
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Experienced+MERN+developer"></a>
+</p> 
+
+
+
+<!-- <h1 align="center"><b>Hi , I'm udara laksitha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  -->
+## 🤖 About Me
+
+```yaml
+Profile:
+  Name: Udara Laksitha
+  Role: Full-Stack Developer
+  Education: Software Engineering Graduate
+  Location: Sri Lanka 🇱🇰
+
+Core Expertise:
+  - Full-Stack Web Development
+  - WordPress Development
+  - RESTful APIs
+  - Database Design
+
+Interests:
+  - Artificial Intelligence
+  - Cloud Technologies
+  - System Design
+  - Automation
+
+Mission:
+  Building intelligent, scalable, and user-centric
+  digital solutions that create real-world impact.
+```
+
+<div align="center">
+
+### ⚡ Developer DNA
+
+```text
+▸ Full-Stack Developer
+▸ AI Enthusiast
+▸ Problem Solver
+▸ Continuous Learner
+▸ Technology Explorer
+```
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+```python
+class CurrentFocus:
+
+    def __init__(self):
+        self.working_on = [
+            "AI-Powered Applications",
+            "MERN Stack Development",
+            "Cloud & Deployment",
+            "Scalable System Architecture"
+        ]
+
+        self.learning = [
+            "Artificial Intelligence",
+            "AWS Cloud",
+            "Advanced Backend Development"
+        ]
+
+        self.goal = "Build impactful software that solves real problems"
+
+focus = CurrentFocus()
+```
+
+<div align="center">
+
+### 🧠 Building Today For Tomorrow
+
+```text
+AI & Automation       ████████████░░░░ 75%
+
+Full-Stack Development ███████████████░ 90%
+
+Cloud Technologies     ████████░░░░░░░░ 55%
+
+Problem Solving        ████████████████ 100%
+```
+
+</div>
+
+> *"Transforming ideas into intelligent digital experiences through code, creativity, and continuous learning."*
+
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Experienced+MERN+developer;Full+stack+developer;Building+scalable+web+applications;Always+learning+new+things"></a>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,java,php,js,html,css,wordpress,git,github,figma,vscode" />
+
 </p>
 
 
-
-<h1 align="center"><b>Hi , I'm udara laksitha </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
- 
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-I’m a Software Engineer with **2+ years of professional experience** building scalable, production-ready web applications using **React, JavaScript (ES6+), and the MERN stack**.
-
-I enjoy working on **end-to-end features**, writing clean and maintainable code, and solving real-world problems through well-designed web applications. I have experience working in **Agile/Scrum environments** and collaborating closely with cross-functional teams.
-
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript (ES6+), Python, Java  
-**Frontend:** React, HTML5, CSS3, Bootstrap, Responsive Design  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, MySQL  
-**DevOps / Tools:** Docker, AWS (EC2, S3 – fundamentals), Git, GitHub, GitHub Actions (basic), Postman  
-**Practices:** Agile/Scrum, Clean Code, API Integration, Performance Optimization
-
----
-
-
-## 📈 What I Focus On
-
-- Building **scalable frontend architectures**
-- Designing **clean RESTful APIs**
-- Writing **maintainable, readable code**
-- Improving performance and usability
-- Continuous learning and improvement
-
----
 
 
 ---
@@ -57,17 +118,15 @@ I enjoy working on **end-to-end features**, writing clean and maintainable code,
 
 
 
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prabodha-laksitha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prabodha-laksitha" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🔥 GitHub Streak
 
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=udaralaksitha&theme=tokyonight"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaralaksitha&" alt="udaralaksitha" /></p>
+</p>
