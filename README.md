@@ -110,18 +110,41 @@ Problem Solving        ████████████████ 100%
 </p>
 
 
+## 🤝 Connect With Me
 
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=06B6D4&center=true&width=700&lines=Open+for+Collaboration;Building+AI+Powered+Solutions;Always+Learning+Always+Building"/>
 
-⭐ *Thank you for visiting my GitHub profile!*
+<br>
+<br>
 
+<a href="https://www.linkedin.com/in/prabodha-laksitha/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/prabodha-laksitha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prabodha-laksitha" height="30" width="40" /></a>
-</p>
+<a href="https://github.com/UdaraLaksitha">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+```yaml
+status: AVAILABLE
+
+interests:
+  - Full-Stack Development
+  - Artificial Intelligence
+  - Cloud Technologies
+  - Open Source
+
+message:
+  "Let's connect and build impactful solutions."
+```
 
 ## 🔥 GitHub Streak
 
@@ -130,3 +153,5 @@ Problem Solving        ████████████████ 100%
 <img src="https://streak-stats.demolab.com?user=udaralaksitha&theme=tokyonight"/>
 
 </p>
+
+
