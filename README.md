@@ -145,6 +145,14 @@ interests:
 message:
   "Let's connect and build impactful solutions."
 ```
+<p align="center"
+
+
+[![Visit Website](https://img.shields.io/badge/🌐_Visit_My_Website-00C2FF?style=for-the-badge)](https://udaralaksitha.github.io/Udara_laksitha.github.io/)     >
+
+
+</p>
+
 
 ## 🔥 GitHub Streak
 
